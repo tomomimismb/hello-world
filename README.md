@@ -1,4 +1,3 @@
 # hello-world
-just another repository
 
-このファイルを編集しました。
+もう一度編集してみる。
